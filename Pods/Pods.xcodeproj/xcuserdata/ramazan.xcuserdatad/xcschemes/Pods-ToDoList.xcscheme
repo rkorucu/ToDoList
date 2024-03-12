@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "63E878D603489B061CCB7E362082AFAB"
-               BuildableName = "Pods_Todoey.framework"
-               BlueprintName = "Pods-Todoey"
+               BlueprintIdentifier = "F66B8EC4FCB4671A397675B3D6265CA5"
+               BuildableName = "Pods_ToDoList.framework"
+               BlueprintName = "Pods-ToDoList"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

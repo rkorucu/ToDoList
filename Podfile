@@ -1,10 +1,10 @@
 platform :ios, '14.3.0'
 
-target 'Todoey' do
+target 'ToDoList' do
 
   use_frameworks!
 
-  # Pods for Todoey
+  # Pods for ToDoList
   pod 'RealmSwift'
   pod 'SwipeCellKit'
   pod 'ChameleonFramework/Swift', :git => 'https://github.com/wowansm/Chameleon.git', :branch => 'swift5'
