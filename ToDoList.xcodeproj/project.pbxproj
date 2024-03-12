@@ -64,7 +64,7 @@
 		EB461D74238D63D70057DDEA = {
 			isa = PBXGroup;
 			children = (
-				EB461D7F238D63D70057DDEA /* Todoey */,
+				EB461D7F238D63D70057DDEA /* ToDoList */,
 				EB461D7E238D63D70057DDEA /* Products */,
 				4E056B7EBB4688128C627EB6 /* Pods */,
 				F312146192BDABB6DD54EFFF /* Frameworks */,
@@ -79,7 +79,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EB461D7F238D63D70057DDEA /* Todoey */ = {
+		EB461D7F238D63D70057DDEA /* ToDoList */ = {
 			isa = PBXGroup;
 			children = (
 				EB461D80238D63D70057DDEA /* AppDelegate.swift */,
@@ -89,7 +89,7 @@
 				EB461D99238EB0BB0057DDEA /* Supporting Files */,
 				EB461D8E238D63D80057DDEA /* Info.plist */,
 			);
-			path = Todoey;
+			path = ToDoList;
 			sourceTree = "<group>";
 		};
 		EB461D94238EB06D0057DDEA /* Controllers */ = {
