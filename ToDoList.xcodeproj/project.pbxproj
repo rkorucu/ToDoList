@@ -404,13 +404,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 26LMCE8L9D;
 				EXCLUDED_ARCHS = "\"arm64 arm64e armv7 armv7s i386 x88_64\"";
-				INFOPLIST_FILE = Todoey/Info.plist;
+				INFOPLIST_FILE = ToDoList/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.philippmuellauer.Todoey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ram.ToDoList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -425,13 +425,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 26LMCE8L9D;
 				EXCLUDED_ARCHS = "\"arm64 arm64e armv7 armv7s i386 x88_64\"";
-				INFOPLIST_FILE = Todoey/Info.plist;
+				INFOPLIST_FILE = ToDoList/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.philippmuellauer.Todoey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ram.ToDoList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
